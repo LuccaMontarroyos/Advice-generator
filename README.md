@@ -33,7 +33,7 @@ Users should be able to:
 ### How to use
 
 ```sh
-  git clone https://github.com/LuccaMontarroyos/Advice-generator 
+  git clone https://github.com/LuccaMontarroyos/Advice-generator.git 
 ```
 
 Then open `index.html` in your web browser
