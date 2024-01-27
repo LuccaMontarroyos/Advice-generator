@@ -39,7 +39,7 @@ Users should be able to:
 Then open `index.html` in your web browser
 ## My process
 
-### Built with
+### Built with techonolgies of
 
 - Semantic HTML5 markup
 - CSS custom properties
